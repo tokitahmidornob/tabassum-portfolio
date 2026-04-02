@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extracurriculars on Tabassum Aktar</title>
+    <link>//localhost:1313/extracurriculars/</link>
+    <description>Recent content in Extracurriculars on Tabassum Aktar</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/extracurriculars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Campus Leader</title>
+      <link>//localhost:1313/extracurriculars/campus-leader/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/extracurriculars/campus-leader/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Organization:&lt;/strong&gt; Interactive Cares&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Campus Volunteer</title>
+      <link>//localhost:1313/extracurriculars/campus-volunteer/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/extracurriculars/campus-volunteer/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Organization:&lt;/strong&gt; ILC&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Volunteer</title>
+      <link>//localhost:1313/extracurriculars/volunteer-icf/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/extracurriculars/volunteer-icf/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Organization:&lt;/strong&gt; ICF&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Member</title>
+      <link>//localhost:1313/extracurriculars/debating-forum/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/extracurriculars/debating-forum/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Organization:&lt;/strong&gt; IUBAT Debating Forum&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Member</title>
+      <link>//localhost:1313/extracurriculars/robotics-club/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/extracurriculars/robotics-club/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Organization:&lt;/strong&gt; IUBAT Robotics Club&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

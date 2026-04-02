@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extracurricular Activities on Tabassum Aktar</title>
+    <link>//localhost:1313/activities/</link>
+    <description>Recent content in Extracurricular Activities on Tabassum Aktar</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/activities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Campus Leader</title>
+      <link>//localhost:1313/activities/campus-leader-interactive-cares/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/activities/campus-leader-interactive-cares/</guid>
+      <description>&lt;p&gt;Serving as a &lt;strong&gt;Campus Leader&lt;/strong&gt; at &lt;strong&gt;Interactive Cares&lt;/strong&gt;, driving awareness of tech-education initiatives on campus, mentoring peers, and bridging the gap between students and industry-relevant learning resources.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Campus Volunteer</title>
+      <link>//localhost:1313/activities/campus-volunteer-ilc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/activities/campus-volunteer-ilc/</guid>
+      <description>&lt;p&gt;Contributing as a &lt;strong&gt;Campus Volunteer&lt;/strong&gt; at &lt;strong&gt;ILC&lt;/strong&gt;, supporting events, outreach programs, and student engagement activities that foster a vibrant and inclusive campus culture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Volunteer</title>
+      <link>//localhost:1313/activities/volunteer-icf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/activities/volunteer-icf/</guid>
+      <description>&lt;p&gt;Actively volunteering with &lt;strong&gt;ICF&lt;/strong&gt;, participating in community-driven initiatives and social-impact projects that channel collective effort toward meaningful change.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Member — Debating Forum</title>
+      <link>//localhost:1313/activities/member-debating-forum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/activities/member-debating-forum/</guid>
+      <description>&lt;p&gt;An active &lt;strong&gt;Member&lt;/strong&gt; of the &lt;strong&gt;Debating Forum of IUBAT&lt;/strong&gt;, sharpening critical-thinking and public-speaking abilities through regular debates, workshops, and inter-university competitions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Member — IUBAT Robotics Club</title>
+      <link>//localhost:1313/activities/member-robotics-club/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/activities/member-robotics-club/</guid>
+      <description>&lt;p&gt;A dedicated &lt;strong&gt;Member&lt;/strong&gt; of the &lt;strong&gt;IUBAT Robotics Club&lt;/strong&gt;, exploring hands-on robotics projects, collaborating on hardware-software integrations, and staying at the forefront of emerging technologies.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

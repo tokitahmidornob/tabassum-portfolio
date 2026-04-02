@@ -1,0 +1,17 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Tabassum Aktar"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+
+[params.author]
+  name = "Tabassum Aktar"
+  image = "/images/IMG-20260306-WA0032.jpg"
+  imageQuality = 96
+  bio = "Enthusiastic Computer Science & Engineering student at IUBAT, focused on leadership and networking."

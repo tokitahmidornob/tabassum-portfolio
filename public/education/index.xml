@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on Tabassum Aktar</title>
+    <link>//localhost:1313/education/</link>
+    <description>Recent content in Education on Tabassum Aktar</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>B.Sc. in Computer Science &amp; Engineering</title>
+      <link>//localhost:1313/education/bsce/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/education/bsce/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; International University of Business Agriculture and Technology (IUBAT), Dhaka&lt;br&gt;&#xA;&lt;strong&gt;Status:&lt;/strong&gt; Present (4th Semester)&lt;br&gt;&#xA;&lt;strong&gt;CGPA:&lt;/strong&gt; 3.86&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>B.Sc. in Computer Science &amp; Engineering</title>
+      <link>//localhost:1313/education/bsce-iubat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/education/bsce-iubat/</guid>
+      <description>&lt;p&gt;Currently pursuing a Bachelor of Science in Computer Science &amp;amp; Engineering at &lt;strong&gt;IUBAT&lt;/strong&gt;, Dhaka. Maintaining a strong &lt;strong&gt;CGPA of 3.86&lt;/strong&gt; through the 4th semester while actively engaging in academics, teamwork, and skill-building opportunities on campus.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Higher Secondary Certificate (HSC)</title>
+      <link>//localhost:1313/education/hsc/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/education/hsc/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Adamjee Cantonment College, Dhaka&lt;br&gt;&#xA;&lt;strong&gt;GPA:&lt;/strong&gt; 4.92&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Higher Secondary Certificate (HSC)</title>
+      <link>//localhost:1313/education/hsc-adamjee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/education/hsc-adamjee/</guid>
+      <description>&lt;p&gt;Completed Higher Secondary Certificate from &lt;strong&gt;Adamjee Cantonment College&lt;/strong&gt;, Dhaka, achieving an outstanding &lt;strong&gt;GPA of 4.92&lt;/strong&gt;. This rigorous academic environment strengthened analytical thinking and laid a solid foundation for higher studies in engineering.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Secondary School Certificate (SSC)</title>
+      <link>//localhost:1313/education/ssc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/education/ssc/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Sonatola Pilot Girls High School, Bogura&lt;br&gt;&#xA;&lt;strong&gt;GPA:&lt;/strong&gt; 5.00&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Secondary School Certificate (SSC)</title>
+      <link>//localhost:1313/education/ssc-sonatola/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/education/ssc-sonatola/</guid>
+      <description>&lt;p&gt;Earned a perfect &lt;strong&gt;GPA of 5.00&lt;/strong&gt; in the Secondary School Certificate examination from &lt;strong&gt;Sonatola Pilot Girls High School&lt;/strong&gt;, Bogura. This achievement reflects a disciplined work ethic and a commitment to academic excellence from an early stage.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
