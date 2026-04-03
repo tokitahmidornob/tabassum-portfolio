@@ -30,7 +30,7 @@ mainSections = ["education", "extracurriculars"]
   showScrollToTop = true
 
 [homepage]
-  layout = "profile"
+  layout = "simple"
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
